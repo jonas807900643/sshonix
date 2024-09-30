@@ -52,7 +52,7 @@
         "ssh2": "^1.11.0",
         "ssh2-sftp-client": "^9.0.4",
         "vue": "^3.2.38",
-        "xterm": "^4.19.0",
+        "xterm": "^5.3.0",
         "xterm-addon-web-links": "^0.6.0"
     }
 }
